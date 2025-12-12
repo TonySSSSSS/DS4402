@@ -1,0 +1,102 @@
+[
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 1,
+    "chunk": "The deductible is the amount you must pay out-of-pocket each year before your insurance plan begins to cover most medical services."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 1,
+    "chunk": "Preventive care services such as annual checkups, immunizations, and screenings are typically covered at no cost to the patient."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 2,
+    "chunk": "Emergency services are generally covered regardless of network status. Many plans waive the deductible for emergency room visits."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 2,
+    "chunk": "Urgent care visits usually require a copayment, which is a fixed fee paid at the time of the visit, separate from the deductible."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 3,
+    "chunk": "A copayment is a flat fee you pay for certain services, such as specialist visits, prescriptions, or urgent care visits."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 3,
+    "chunk": "Coinsurance is the percentage of costs you must pay after meeting your deductible. For example, you may be responsible for 20% while the plan covers 80%."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 3,
+    "chunk": "The out-of-pocket maximum is the most you will pay for covered services in a plan year. After you reach it, the plan pays 100% of covered services."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 4,
+    "chunk": "Prescription drugs may require prior authorization. This means your doctor must get approval from your insurance company before the medication will be covered."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 4,
+    "chunk": "Some plans require a referral from your primary care physician before you can see a specialist. Without a referral, the visit may not be covered."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 5,
+    "chunk": "In-network providers are doctors or facilities that have agreed to lower rates with your insurance company. Using them usually lowers your costs."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 5,
+    "chunk": "Out-of-network providers have not negotiated rates with your insurance plan and may result in higher charges or no coverage for certain services."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 6,
+    "chunk": "Some plans include separate deductibles for prescription drugs, meaning you must meet a specific amount before drug coverage begins."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 6,
+    "chunk": "Telehealth visits are often covered similarly to in-person visits, but some plans waive copays for virtual consultations."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 7,
+    "chunk": "Laboratory tests such as blood work might be subject to coinsurance after the deductible is met, depending on your plan details."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 7,
+    "chunk": "Imaging services such as MRIs or CT scans often require prior authorization and may involve coinsurance after deductible payment."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 8,
+    "chunk": "Physical therapy services may require a referral and may also be limited to a certain number of sessions per year according to the plan."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 8,
+    "chunk": "Mental health services are generally covered similarly to medical services and may include copays or coinsurance depending on network status."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 9,
+    "chunk": "Maternity care is considered essential health coverage and includes prenatal visits, labor, delivery, and postnatal checkups."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 9,
+    "chunk": "Some preventive medications, such as certain vaccines or birth control pills, may be covered with no cost-sharing under many insurance plans."
+  },
+  {
+    "pdf": "demo_insurance.pdf",
+    "page": 10,
+    "chunk": "Certain high-cost specialty drugs may require step therapy, meaning you must try lower-cost alternatives before the plan approves the more expensive option."
+  }
+]
